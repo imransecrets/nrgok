@@ -13,7 +13,7 @@ Put your app online at ephemeral domain Forwarding to your upstream service. For
 
 `poetry run ngrok http http://localhost:8080`
 
-==================================================================================================================
+===============================================================================
 ## for static domain
 
 go to `domain` and click on `+ Create Domain` then domain will be created automatically
