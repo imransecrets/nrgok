@@ -1,4 +1,4 @@
-# NRGOK CONFIGURATION FOR POETRY IN WINDOW
+# NGROK CONFIGURATION FOR POETRY IN WINDOW
 
 Install ngrok via Chocolatey with the following command:
 
