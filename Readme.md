@@ -1,8 +1,8 @@
-# NRGOK CONFIGUARTION FOR POETRY IN WINDOW
+# NRGOK CONFIGURATION FOR POETRY IN WINDOW
 
 Install ngrok via Chocolatey with the following command:
 
-`postry add choco install ngrok`
+`poetry add choco install ngrok`
 
 Run the following command to add your authtoken to the default ngrok.yml configuration file.
 
