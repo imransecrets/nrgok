@@ -31,8 +31,10 @@ now new window open with Congrats! You've got a spot on the internet.
       3. Start a Tunnel from Docker
     copy and past following like command line
     write down poetry run and complete the port in my case extrat 00 
-    
     poetry run `ngrok tunnel --label edge=edghts_2eHZu2dY9XIe5pE5ly510oAzYoi http://localhost:80`00
+    final command should be below
+    'poetry run ngrok tunnel --label edge=edghts_2eHZu2dY9XIe5pE5ly510oAzYoi http://localhost:8000'
+    
 
     now click the static domain and it will work
   
