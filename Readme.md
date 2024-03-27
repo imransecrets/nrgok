@@ -11,7 +11,7 @@ Run the following command to add your authtoken to the default ngrok.yml configu
 Deploy your app online
 Put your app online at ephemeral domain Forwarding to your upstream service. For example, if it is listening on port http://localhost:8000, run:
 
-`poetry run ngrok http http://localhost:8080`
+`poetry run ngrok http http://localhost:8000` amended from 8080
 
 ===============================================================================
 ## for static domain
