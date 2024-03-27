@@ -24,12 +24,19 @@ go to `edges` and click on `+ Create Edge` then
     click on button `Create Edge`
     
 now new window open with Congrats! You've got a spot on the internet.
+
     now click on button `Start a Tunnel` 
+    
     you will be given 3 option dropdown menu
+    
       1. Start a Tunnel from Command line `[select this one]`
+
       2. Start a Tunnel from the Config File
+      
       3. Start a Tunnel from Docker
+      
     copy and past following like command line
+    
     write down poetry run and complete the port in my case extrat 00 
     
     poetry run `ngrok tunnel --label edge=edghts_2eHZu2dY9XIe5pE5ly510oAzYoi http://localhost:80`00
