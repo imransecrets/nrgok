@@ -13,7 +13,7 @@ Put your app online at ephemeral domain Forwarding to your upstream service. For
 
 `poetry run ngrok http http://localhost:8080`
 
-=============================================================================================================================================
+==================================================================================================================
 ## for static domain
 
 go to `domain` and click on `+ Create Domain` then domain will be created automatically
@@ -31,7 +31,10 @@ now new window open with Congrats! You've got a spot on the internet.
       3. Start a Tunnel from Docker
     copy and past following like command line
     write down poetry run and complete the port in my case extrat 00 
+    
     poetry run `ngrok tunnel --label edge=edghts_2eHZu2dY9XIe5pE5ly510oAzYoi http://localhost:80`00
+
+    now click the static domain and it will work
   
       
 
